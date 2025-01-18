@@ -1,1 +1,1 @@
-# Yapay-zeka-ve-makine-renmesi-
+# Yapay-zeka-ve-makine-ogrenmesi-
